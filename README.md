@@ -6,6 +6,6 @@ To run the weather APP file,
 
 First create react App
 
-then clone the src folder, or replace the folder with this one. then you can run npm to start the project.
+Then clone the src folder, or replace the folder with this one, then run npm to start the project.
 
-I have also included my API key fro testing purpose. 
+I have also included my API key for testing purpose. 
